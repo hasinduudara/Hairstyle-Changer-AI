@@ -2,3 +2,5 @@ gradio
 pillow
 opencv-python
 numpy
+requests
+python-dotenv
